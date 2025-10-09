@@ -1,4 +1,4 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: tercerRepo
 Version: 0.1.0
 Summary: Un paquete pip simple de saludo
@@ -6,7 +6,5 @@ Home-page: https://github.com/FranciscoJAH83/tercerRepo
 Author: Francisco Arguello
 Author-email: arguellofrancisco@hotmail.com
 License: UNKNOWN
+Description: UNKNOWN
 Platform: UNKNOWN
-
-UNKNOWN
-
